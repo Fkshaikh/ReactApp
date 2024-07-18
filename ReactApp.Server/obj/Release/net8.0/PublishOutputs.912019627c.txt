@@ -1,0 +1,12 @@
+C:\Users\Faisal\source\repos\ReactApp\publish\ReactApp.Server.exe
+C:\Users\Faisal\source\repos\ReactApp\publish\appsettings.Development.json
+C:\Users\Faisal\source\repos\ReactApp\publish\appsettings.json
+C:\Users\Faisal\source\repos\ReactApp\publish\ReactApp.Server.dll
+C:\Users\Faisal\source\repos\ReactApp\publish\ReactApp.Server.deps.json
+C:\Users\Faisal\source\repos\ReactApp\publish\ReactApp.Server.runtimeconfig.json
+C:\Users\Faisal\source\repos\ReactApp\publish\ReactApp.Server.pdb
+C:\Users\Faisal\source\repos\ReactApp\publish\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Faisal\source\repos\ReactApp\publish\Microsoft.OpenApi.dll
+C:\Users\Faisal\source\repos\ReactApp\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Faisal\source\repos\ReactApp\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Faisal\source\repos\ReactApp\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
