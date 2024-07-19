@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJtQeqFt9YJROiVa6z1PWp0703WtIwjejaJeVVHB6juT3Jm6+THV8LANFMvderFLFGEv6VmuAzlleWQviSa6Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Faisal\\source\\repos\\ReactApp\\app.utility\\app.utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faisal\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Faisal\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Faisal\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
+    "C:\\Users\\Faisal\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

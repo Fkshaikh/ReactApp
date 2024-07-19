@@ -1,0 +1,12 @@
+C:\Users\Faisal\source\repos\ReactApp\app.Models\bin\Debug\net8.0\app.Models.deps.json
+C:\Users\Faisal\source\repos\ReactApp\app.Models\bin\Debug\net8.0\app.Models.dll
+C:\Users\Faisal\source\repos\ReactApp\app.Models\bin\Debug\net8.0\app.Models.pdb
+C:\Users\Faisal\source\repos\ReactApp\app.Models\obj\Debug\net8.0\app.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\source\repos\ReactApp\app.Models\obj\Debug\net8.0\app.Models.AssemblyInfoInputs.cache
+C:\Users\Faisal\source\repos\ReactApp\app.Models\obj\Debug\net8.0\app.Models.AssemblyInfo.cs
+C:\Users\Faisal\source\repos\ReactApp\app.Models\obj\Debug\net8.0\app.Models.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\ReactApp\app.Models\obj\Debug\net8.0\app.Models.sourcelink.json
+C:\Users\Faisal\source\repos\ReactApp\app.Models\obj\Debug\net8.0\app.Models.dll
+C:\Users\Faisal\source\repos\ReactApp\app.Models\obj\Debug\net8.0\refint\app.Models.dll
+C:\Users\Faisal\source\repos\ReactApp\app.Models\obj\Debug\net8.0\app.Models.pdb
+C:\Users\Faisal\source\repos\ReactApp\app.Models\obj\Debug\net8.0\ref\app.Models.dll
