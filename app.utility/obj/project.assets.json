@@ -196,35 +196,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Faisal\\.nuget\\packages\\": {}
+    "/Users/faisal/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Faisal\\source\\repos\\ReactApp\\app.utility\\app.utility.csproj",
+      "projectUniqueName": "/Users/faisal/ReactApp/app.utility/app.utility.csproj",
       "projectName": "app.utility",
-      "projectPath": "C:\\Users\\Faisal\\source\\repos\\ReactApp\\app.utility\\app.utility.csproj",
-      "packagesPath": "C:\\Users\\Faisal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Faisal\\source\\repos\\ReactApp\\app.utility\\obj\\",
+      "projectPath": "/Users/faisal/ReactApp/app.utility/app.utility.csproj",
+      "packagesPath": "/Users/faisal/.nuget/packages/",
+      "outputPath": "/Users/faisal/ReactApp/app.utility/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Faisal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/faisal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Faisal\\source\\repos\\ReactApp\\app.Models\\app.Models.csproj": {
-              "projectPath": "C:\\Users\\Faisal\\source\\repos\\ReactApp\\app.Models\\app.Models.csproj"
+            "/Users/faisal/ReactApp/app.Models/app.Models.csproj": {
+              "projectPath": "/Users/faisal/ReactApp/app.Models/app.Models.csproj"
             }
           }
         }
@@ -260,7 +257,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

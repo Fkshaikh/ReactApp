@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "Hash": "K99iUeVjjmFyqL5N8gduStW8AnkpeZgUbBFabw4kdQg=",
+  "Hash": "10xmL891f8eRfkUXX+IWA5fjpGBwJskbP/1Zwtp+OV8=",
   "Source": "ReactApp.Server",
   "BasePath": "_content/ReactApp.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Faisal\\source\\repos\\ReactApp\\reactapp.client\\reactapp.client.esproj",
+      "Identity": "/Users/faisal/ReactApp/reactapp.client/reactapp.client.esproj",
       "Version": 2,
       "Source": "reactapp.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],

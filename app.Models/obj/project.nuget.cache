@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HkW5Vb/PvfaYEFOlKPf7squn9+sj0gRUEaASf3OYrQCnzREZc/47IYVQs6hFbZ850lzPAyoVy3XLjLOektEiYw==",
+  "dgSpecHash": "JlZTB8umGLHj+q/GBLsphbvqWNAH9yG2ubNVJQLX0G+2NnX/Q4ngzKX6swWx0Ipp1daXtcOWKR54SZlzLrJdvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Faisal\\source\\repos\\ReactApp\\app.Models\\app.Models.csproj",
+  "projectFilePath": "/Users/faisal/ReactApp/app.Models/app.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -9,15 +9,37 @@
     <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">vite build</PackageJsonScriptsBuild>
     <PackageJsonScriptsLint Condition="$(PackageJsonScriptsLint) == ''">eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0</PackageJsonScriptsLint>
     <PackageJsonScriptsPreview Condition="$(PackageJsonScriptsPreview) == ''">vite preview</PackageJsonScriptsPreview>
+    <PackageJsonDependenciesEmotionCache Condition="$(PackageJsonDependenciesEmotionCache) == ''">11.10.8</PackageJsonDependenciesEmotionCache>
+    <PackageJsonDependenciesEmotionReact Condition="$(PackageJsonDependenciesEmotionReact) == ''">^11.10.8</PackageJsonDependenciesEmotionReact>
+    <PackageJsonDependenciesEmotionStyled Condition="$(PackageJsonDependenciesEmotionStyled) == ''">^11.10.8</PackageJsonDependenciesEmotionStyled>
+    <PackageJsonDependenciesMuiIconsMaterial Condition="$(PackageJsonDependenciesMuiIconsMaterial) == ''">^5.11.16</PackageJsonDependenciesMuiIconsMaterial>
+    <PackageJsonDependenciesMuiMaterial Condition="$(PackageJsonDependenciesMuiMaterial) == ''">^5.12.3</PackageJsonDependenciesMuiMaterial>
+    <PackageJsonDependenciesChartJs Condition="$(PackageJsonDependenciesChartJs) == ''">4.3.0</PackageJsonDependenciesChartJs>
+    <PackageJsonDependenciesChromaJs Condition="$(PackageJsonDependenciesChromaJs) == ''">2.4.2</PackageJsonDependenciesChromaJs>
+    <PackageJsonDependenciesPropTypes Condition="$(PackageJsonDependenciesPropTypes) == ''">15.8.1</PackageJsonDependenciesPropTypes>
     <PackageJsonDependenciesReact Condition="$(PackageJsonDependenciesReact) == ''">^18.3.1</PackageJsonDependenciesReact>
+    <PackageJsonDependenciesReactChartjs2 Condition="$(PackageJsonDependenciesReactChartjs2) == ''">5.2.0</PackageJsonDependenciesReactChartjs2>
     <PackageJsonDependenciesReactDom Condition="$(PackageJsonDependenciesReactDom) == ''">^18.3.1</PackageJsonDependenciesReactDom>
+    <PackageJsonDependenciesReactGithubBtn Condition="$(PackageJsonDependenciesReactGithubBtn) == ''">1.4.0</PackageJsonDependenciesReactGithubBtn>
+    <PackageJsonDependenciesReactRouterDom Condition="$(PackageJsonDependenciesReactRouterDom) == ''">^6.25.1</PackageJsonDependenciesReactRouterDom>
+    <PackageJsonDependenciesReactScripts Condition="$(PackageJsonDependenciesReactScripts) == ''">5.0.1</PackageJsonDependenciesReactScripts>
+    <PackageJsonDependenciesReactTable Condition="$(PackageJsonDependenciesReactTable) == ''">7.8.0</PackageJsonDependenciesReactTable>
+    <PackageJsonDependenciesStylis Condition="$(PackageJsonDependenciesStylis) == ''">4.1.4</PackageJsonDependenciesStylis>
+    <PackageJsonDependenciesStylisPluginRtl Condition="$(PackageJsonDependenciesStylisPluginRtl) == ''">2.1.1</PackageJsonDependenciesStylisPluginRtl>
+    <PackageJsonDependenciesYup Condition="$(PackageJsonDependenciesYup) == ''">1.1.1</PackageJsonDependenciesYup>
     <PackageJsonDevdependenciesTypesReact Condition="$(PackageJsonDevdependenciesTypesReact) == ''">^18.3.3</PackageJsonDevdependenciesTypesReact>
     <PackageJsonDevdependenciesTypesReactDom Condition="$(PackageJsonDevdependenciesTypesReactDom) == ''">^18.3.0</PackageJsonDevdependenciesTypesReactDom>
     <PackageJsonDevdependenciesVitejsPluginReact Condition="$(PackageJsonDevdependenciesVitejsPluginReact) == ''">^4.3.1</PackageJsonDevdependenciesVitejsPluginReact>
+    <PackageJsonDevdependenciesAjv Condition="$(PackageJsonDevdependenciesAjv) == ''">^7.2.4</PackageJsonDevdependenciesAjv>
     <PackageJsonDevdependenciesEslint Condition="$(PackageJsonDevdependenciesEslint) == ''">^8.57.0</PackageJsonDevdependenciesEslint>
+    <PackageJsonDevdependenciesEslintConfigPrettier Condition="$(PackageJsonDevdependenciesEslintConfigPrettier) == ''">8.8.0</PackageJsonDevdependenciesEslintConfigPrettier>
+    <PackageJsonDevdependenciesEslintPluginImport Condition="$(PackageJsonDevdependenciesEslintPluginImport) == ''">2.27.5</PackageJsonDevdependenciesEslintPluginImport>
+    <PackageJsonDevdependenciesEslintPluginJsxA11y Condition="$(PackageJsonDevdependenciesEslintPluginJsxA11y) == ''">6.7.1</PackageJsonDevdependenciesEslintPluginJsxA11y>
+    <PackageJsonDevdependenciesEslintPluginPrettier Condition="$(PackageJsonDevdependenciesEslintPluginPrettier) == ''">4.2.1</PackageJsonDevdependenciesEslintPluginPrettier>
     <PackageJsonDevdependenciesEslintPluginReact Condition="$(PackageJsonDevdependenciesEslintPluginReact) == ''">^7.34.3</PackageJsonDevdependenciesEslintPluginReact>
     <PackageJsonDevdependenciesEslintPluginReactHooks Condition="$(PackageJsonDevdependenciesEslintPluginReactHooks) == ''">^4.6.2</PackageJsonDevdependenciesEslintPluginReactHooks>
     <PackageJsonDevdependenciesEslintPluginReactRefresh Condition="$(PackageJsonDevdependenciesEslintPluginReactRefresh) == ''">^0.4.7</PackageJsonDevdependenciesEslintPluginReactRefresh>
+    <PackageJsonDevdependenciesPrettier Condition="$(PackageJsonDevdependenciesPrettier) == ''">2.8.8</PackageJsonDevdependenciesPrettier>
     <PackageJsonDevdependenciesVite Condition="$(PackageJsonDevdependenciesVite) == ''">^5.3.4</PackageJsonDevdependenciesVite>
   </PropertyGroup>
 </Project>

@@ -1,1 +1,2 @@
-C:\Users\Faisal\source\repos\ReactApp\reactapp.client\obj\Debug\reactapp.client.esproj.CoreCompileInputs.cache
+C:/Users/Faisal/source/repos/ReactApp/reactapp.client/obj/Debug/reactapp.client.esproj.CoreCompileInputs.cache
+/Users/faisal/ReactApp/reactapp.client/obj/Debug/reactapp.client.esproj.CoreCompileInputs.cache
