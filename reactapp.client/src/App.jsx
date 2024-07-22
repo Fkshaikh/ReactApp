@@ -16,6 +16,9 @@ import {
 } from "@/context/index.jsx";
 import brandWhite from "@/assets/images/logo-ct.png";
 import brandDark from "@/assets/images/logo-ct-dark.png";
+import PrivateRoute from "./context/PrivateRoute";
+import { AuthProvider } from "./context/AuthContext";
+import Dashboard from "@mui/icons-material/Dashboard";
 
 export default function App() {
   console.log(routes);
@@ -120,10 +123,20 @@ export default function App() {
         </>
       )}
       {layout === "vr" && <Configurator />}
-      <Routes>
-        {getRoutes(routes)}
-        <Route path="*" element={<Navigate to="/dashboard" />} />
-      </Routes>
+      <AuthProvider>
+        <Routes>
+          {getRoutes(routes)}
+          <Route
+            path="*"
+            element={
+              <PrivateRoute>
+                <Dashboard />
+              </PrivateRoute>
+            }
+          />
+          {/* <Route path="*" element={<Navigate to="/dashboard" />} /> */}
+        </Routes>
+      </AuthProvider>
     </ThemeProvider>
   );
 }

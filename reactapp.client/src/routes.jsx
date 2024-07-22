@@ -44,10 +44,10 @@ const routes = [
   },
   {
     component: <SignIn />,
-    route: "/authentication/sign-in",
+    route: "/sign-in",
   },
   {
-    route: "/authentication/sign-up",
+    route: "/sign-up",
     component: <SignUp />,
   },
 ];

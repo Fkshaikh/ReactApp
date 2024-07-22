@@ -12,7 +12,7 @@ using JwtRegisteredClaimNames = Microsoft.IdentityModel.JsonWebTokens.JwtRegiste
 namespace ReactApp.Server.Controllers;
 
 
-[Route("api/[controller]")]
+[Route("[controller]")]
 [ApiController]
 public class FlatOwner(IUnitOfWork db, IPasswordHasher<app.Models.FlatOwner> passwordHasher,IConfiguration configuration) : Controller
 {
@@ -48,7 +48,7 @@ public class FlatOwner(IUnitOfWork db, IPasswordHasher<app.Models.FlatOwner> pas
     }
     
     
-    //Post : api/FlatOwner/Login
+    //Post : FlatOwner/Login
     [HttpPost("Login")]
     public IActionResult Login([FromBody] LoginDto body)
     {
